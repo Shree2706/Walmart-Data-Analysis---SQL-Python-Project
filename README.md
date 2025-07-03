@@ -16,7 +16,7 @@ Analysis: Use functions like .info(), .describe(), and .head() to get a quick ov
 ## 4. Feature Engineering
 1. Create New Columns: Calculate the Total Amount for each transaction by multiplying unit_price by quantity and adding this as a new column.
 2. Enhance Dataset: Adding this calculated field will streamline further SQL analysis and aggregation tasks.
-## 8. Load Data into MySQL and PostgreSQL
+## 8. Load Data into MySQL
 1. Set Up Connections: Connect to MySQL load the cleaned data into database.
 2. Table Creation: Set up tables in both MySQL to automate table creation and data insertion.
 3. Verification: Run initial SQL queries to confirm that the data has been loaded accurately.
